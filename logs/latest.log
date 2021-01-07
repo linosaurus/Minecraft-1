@@ -1,0 +1,99 @@
+[03:20:48] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03:20:49] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:20:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:20:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:20:49] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:20:49] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:20:49] [main/INFO]: Reloading ResourceManager: Default
+[03:20:49] [Worker-Main-8/INFO]: Loaded 7 recipes
+[03:20:50] [Worker-Main-8/INFO]: Loaded 927 advancements
+[03:20:51] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[03:20:51] [Server thread/INFO]: Loading properties
+[03:20:51] [Server thread/INFO]: Default game type: SURVIVAL
+[03:20:51] [Server thread/INFO]: Generating keypair
+[03:20:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:20:51] [Server thread/INFO]: Using default channel type
+[03:20:51] [Server thread/INFO]: Preparing level "world"
+[03:20:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:20:52] [Server thread/INFO]: Preparing spawn area: 0%
+[03:20:52] [Server thread/INFO]: Preparing spawn area: 0%
+[03:20:52] [Server thread/INFO]: Preparing spawn area: 0%
+[03:20:52] [Server thread/INFO]: Preparing spawn area: 8%
+[03:20:56] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[03:20:56] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[03:20:56] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[03:20:56] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[03:20:56] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[03:20:56] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[03:20:56] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[03:20:56] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[03:20:57] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[03:20:57] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[03:20:58] [Worker-Main-10/INFO]: Preparing spawn area: 83%
+[03:20:58] [Worker-Main-10/INFO]: Preparing spawn area: 83%
+[03:20:59] [Server thread/INFO]: Preparing spawn area: 86%
+[03:20:59] [Worker-Main-6/WARN]: Tried to access a block entity before it was created. fx{x=300, y=47, z=34}
+[03:20:59] [Worker-Main-6/WARN]: Tried to access a block entity before it was created. fx{x=300, y=47, z=34}
+[03:20:59] [Worker-Main-6/WARN]: Tried to access a block entity before it was created. fx{x=300, y=47, z=34}
+[03:20:59] [Worker-Main-7/INFO]: Preparing spawn area: 93%
+[03:21:00] [Server thread/INFO]: Time elapsed: 8813 ms
+[03:21:00] [Server thread/INFO]: Done (8.877s)! For help, type "help"
+[03:22:42] [User Authenticator #1/INFO]: UUID of player GenieWonimanimo is 8c089ff3-5ead-490d-ae14-c244ac64a29c
+[03:22:43] [Server thread/INFO]: GenieWonimanimo[/127.0.0.1:55861] logged in with entity id 76 at (108.5, 68.0, -133.5)
+[03:22:43] [Server thread/INFO]: GenieWonimanimo joined the game
+[03:26:55] [User Authenticator #2/INFO]: UUID of player lin0saurus is 66a26d78-20ba-4c33-9210-e1ec2361a7d0
+[03:26:55] [Server thread/INFO]: lin0saurus[/59.22.63.244:58513] logged in with entity id 716 at (110.5, 68.0, -138.5)
+[03:26:55] [Server thread/INFO]: lin0saurus joined the game
+[03:28:22] [Server thread/INFO]: <lin0saurus> te
+[03:29:05] [Server thread/INFO]: GenieWonimanimo was slain by lin0saurus
+[03:29:13] [Server thread/INFO]: lin0saurus was slain by GenieWonimanimo
+[03:29:23] [Server thread/INFO]: <lin0saurus> t
+[03:34:07] [Server thread/INFO]: lin0saurus has made the advancement [Monster Hunter]
+[03:34:38] [Server thread/INFO]: GenieWonimanimo has made the advancement [Stone Age]
+[03:35:36] [Server thread/INFO]: lin0saurus has made the advancement [Getting an Upgrade]
+[03:35:44] [Server thread/INFO]: GenieWonimanimo has made the advancement [Getting an Upgrade]
+[03:35:49] [Server thread/INFO]: lin0saurus has made the advancement [Stone Age]
+[03:45:26] [Server thread/INFO]: GenieWonimanimo has made the advancement [Acquire Hardware]
+[03:52:12] [Server thread/INFO]: GenieWonimanimo has made the advancement [Monster Hunter]
+[03:53:07] [Server thread/INFO]: GenieWonimanimo was shot by Skeleton
+[03:53:52] [Server thread/INFO]: lin0saurus was slain by Zombie
+[03:58:27] [Server thread/INFO]: GenieWonimanimo was shot by Skeleton
+[04:03:56] [Server thread/INFO]: <GenieWonimanimo> tp lin0saurus
+[04:04:05] [Server thread/INFO]: <GenieWonimanimo> \tp lin0saurus
+[04:04:53] [Server thread/INFO]: lin0saurus has made the advancement [Acquire Hardware]
+[04:07:43] [Server thread/INFO]: <GenieWonimanimo> \tp lin0saurus
+[04:07:47] [Server thread/INFO]: <GenieWonimanimo> tp lin0saurus
+[04:11:34] [Server thread/INFO]: GenieWonimanimo has made the advancement [Sweet Dreams]
+[04:11:37] [Server thread/INFO]: lin0saurus has made the advancement [Sweet Dreams]
+[04:14:38] [Server thread/INFO]: lin0saurus has made the advancement [Suit Up]
+[04:19:43] [Server thread/INFO]: lin0saurus has made the advancement [Best Friends Forever]
+[04:24:08] [Server thread/INFO]: GenieWonimanimo has made the advancement [The Parrots and the Bats]
+[04:27:26] [Server thread/INFO]: lin0saurus has made the advancement [The Parrots and the Bats]
+[04:52:40] [Server thread/INFO]: GenieWonimanimo was shot by Skeleton
+[05:04:32] [Server thread/INFO]: GenieWonimanimo has made the advancement [Isn't It Iron Pick]
+[05:17:46] [Server thread/INFO]: GenieWonimanimo has made the advancement [Suit Up]
+[05:22:06] [Server thread/INFO]: lin0saurus lost connection: Disconnected
+[05:22:06] [Server thread/INFO]: lin0saurus left the game
+[05:22:10] [User Authenticator #3/INFO]: UUID of player lin0saurus is 66a26d78-20ba-4c33-9210-e1ec2361a7d0
+[05:22:10] [Server thread/INFO]: lin0saurus[/59.22.63.244:59205] logged in with entity id 15804 at (201.6145431880106, 70.0, 46.491534101679854)
+[05:22:10] [Server thread/INFO]: lin0saurus joined the game
+[05:22:44] [Server thread/INFO]: lin0saurus lost connection: Disconnected
+[05:22:44] [Server thread/INFO]: lin0saurus left the game
+[05:23:29] [User Authenticator #4/INFO]: UUID of player lin0saurus is 66a26d78-20ba-4c33-9210-e1ec2361a7d0
+[05:23:29] [Server thread/INFO]: lin0saurus[/59.22.63.244:59293] logged in with entity id 15941 at (201.6145431880106, 70.0, 46.491534101679854)
+[05:23:29] [Server thread/INFO]: lin0saurus joined the game
+[06:10:21] [Server thread/INFO]: lin0saurus has made the advancement [Isn't It Iron Pick]
+[06:12:15] [Server thread/INFO]: lin0saurus lost connection: Disconnected
+[06:12:15] [Server thread/INFO]: lin0saurus left the game
+[06:12:21] [User Authenticator #5/INFO]: UUID of player lin0saurus is 66a26d78-20ba-4c33-9210-e1ec2361a7d0
+[06:12:21] [Server thread/INFO]: lin0saurus[/59.22.63.244:59473] logged in with entity id 22454 at (165.5240130650026, 26.0, 24.7334613724321)
+[06:12:21] [Server thread/INFO]: lin0saurus joined the game
+[06:12:30] [Server thread/INFO]: lin0saurus lost connection: Disconnected
+[06:12:30] [Server thread/INFO]: lin0saurus left the game
+[06:13:07] [User Authenticator #6/INFO]: UUID of player lin0saurus is 66a26d78-20ba-4c33-9210-e1ec2361a7d0
+[06:13:07] [Server thread/INFO]: lin0saurus[/59.22.63.244:59562] logged in with entity id 22540 at (165.7914519664779, 26.0, 24.70230820292721)
+[06:13:07] [Server thread/INFO]: lin0saurus joined the game
+[06:42:32] [Server thread/INFO]: GenieWonimanimo lost connection: Disconnected
+[06:42:32] [Server thread/INFO]: GenieWonimanimo left the game
+[06:42:42] [Server thread/INFO]: lin0saurus lost connection: Disconnected
+[06:42:42] [Server thread/INFO]: lin0saurus left the game
